@@ -1,0 +1,25 @@
+{
+  "name": "watson-chat",
+  "version": "1.0.0",
+  "description": "A video chat application that uses speech to text to transcribe the conversation",
+  "main": "bundle.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "simple-peer": "^5.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric1foard/watson-chat.git"
+  },
+  "author": "Eric Foard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eric1foard/watson-chat/issues"
+  },
+  "homepage": "https://github.com/eric1foard/watson-chat#readme"
+}
